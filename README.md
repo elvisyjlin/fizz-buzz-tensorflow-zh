@@ -1,5 +1,7 @@
 # fizz-buzz-tensorflow-zh
 
+See [Fizz Buzz in Tensorflow in Traditional Chinese](https://github.com/elvisyjlin/fizz-buzz-tensorflow-zh/blob/master/Fizz%20Buzz%20in%20Tensorflow%20in%20Traditional%20Chinese.ipynb)
+
 After reading 
 [Joel Grus – Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/), 
 I was impressed with Joel's story and had a lot of fun. 
@@ -7,6 +9,8 @@ The story shows how a neural network works basically.
 And protagonist behaves a typical workflow like a data scientist does. 
 Therefore, I decided to translate it into Chinese so that 
 more people can take a look at what is the recent so-called "Deep Learning".
+
+請見 [TensorFlow上的Fizz Buzz](https://github.com/elvisyjlin/fizz-buzz-tensorflow-zh/blob/master/Fizz%20Buzz%20in%20Tensorflow%20in%20Traditional%20Chinese.ipynb)
 
 這篇文章
 〈[Joel Grus – Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)〉
