@@ -1,5 +1,7 @@
 # fizz-buzz-tensorflow-zh
 
+Playing fizz buzz with Python and TensorFlow!
+
 ## Fizz Buzz in Tensorflow in Traditional Chinese
 
 See [Fizz Buzz in Tensorflow in Traditional Chinese](https://github.com/elvisyjlin/fizz-buzz-tensorflow-zh/blob/master/Fizz%20Buzz%20in%20Tensorflow%20in%20Traditional%20Chinese.ipynb)
